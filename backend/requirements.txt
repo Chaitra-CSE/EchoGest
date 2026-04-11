@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+opencv-python
+numpy==1.26.4
+mediapipe
+protobuf==3.20.3
+pydantic
